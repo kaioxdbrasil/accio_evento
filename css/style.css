@@ -550,7 +550,8 @@ ol {
 -----------------------*/
 
 .team-member-section {
-	overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 .member-item {
