@@ -550,8 +550,7 @@ ol {
 -----------------------*/
 
 .team-member-section {
-    display: flex;
-    justify-content: center;
+	overflow: hidden;
 }
 
 .member-item {
@@ -620,7 +619,6 @@ ol {
 	color: #f44949;
 	display: block;
 }
-
 /*---------------------
   Schedule Section
 -----------------------*/
