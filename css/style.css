@@ -171,8 +171,8 @@ ol {
 .price-item .tr-tag,
 .schedule-tab .nav-tabs .nav-item .nav-link.active,
 .site-btn {
-	background-image: -o-linear-gradient(330deg, #006400 0%, #00ff00 100%), -o-linear-gradient(330deg, #006400 0%, #00ff00 100%);
-	background-image: linear-gradient(120deg, #006400 0%, #00ff00 100%), linear-gradient(120deg, #006400 0%, #00ff00 100%);
+	background-image: -o-linear-gradient(330deg, #20304e 0%, #000dff 100%), -o-linear-gradient(330deg, #20304e 0%, #000dff 100%);
+	background-image: linear-gradient(120deg, #20304e 0%, #000dff 100%), linear-gradient(120deg, #20304e 0%, #000dff 100%);
 }
 
 /* buttons */
@@ -185,9 +185,9 @@ ol {
 	color: #ffffff;
 	text-align: center;
 	border-radius: 50px;
-	background-image: -webkit-gradient(linear, left top, right top, from(#006400), to(#00ff00)), -webkit-gradient(linear, left top, right top, from(#006400), to(#00ff00));
-	background-image: -o-linear-gradient(left, #006400 0%, #00ff00 100%), -o-linear-gradient(left, #006400 0%, #00ff00 100%);
-	background-image: linear-gradient(to right, #006400 0%, #00ff00 100%), linear-gradient(to right, #006400 0%, #00ff00 100%);
+	background-image: -webkit-gradient(linear, left top, right top, from(#000dff), to(#000dff)), -webkit-gradient(linear, left top, right top, from(#20304e), to (#000dff));
+	background-image: -o-linear-gradient(left, #20304e 0%, #000dff 100%), -o-linear-gradient(left, #20304e 0%, #000dff 100%);
+	background-image: linear-gradient(to right, #20304e 0%, #000dff 100%), linear-gradient(to right, #20304e 0%, #000dff 100%);
 }
 
 
@@ -401,7 +401,7 @@ ol {
 
 .hero-section .hero-text span {
 	font-size: 16px;
-	color: #57df57;
+	color: #000dff;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
